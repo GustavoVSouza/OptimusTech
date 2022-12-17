@@ -3,11 +3,11 @@
 
 Site Criado no #7DaysOfCode
 
-| :placard: #7DaysOfCode |   **Desafio Alura**  |
+| :placard: #7DaysOfCode | **Desafio Alura**  |
 | -------------  | --- |
 | :sparkles: Nome        | **OptimusTech**
 | :label: Tecnologias | HTML5, CSS3 (tecnologias utilizadas)
-| :rocket: URL         |https://optimus-tech-eight.vercel.app/
+| :rocket: URL         | https://optimus-tech-eight.vercel.app/
 
 ## Detalhes do projeto
 
