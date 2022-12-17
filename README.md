@@ -1,5 +1,5 @@
 # OptimusTech
-## 3 Dia concluido!
+### 3 Dia concluido!
 
 Site Criado no #7DaysOfCode
 
@@ -7,7 +7,7 @@ Site Criado no #7DaysOfCode
 | -------------  | --- |
 | :sparkles: Nome        | **OptimusTech**
 | :label: Tecnologias | HTML5, CSS3 (tecnologias utilizadas)
-| :rocket: URL         |https://gustavo-souza-portifolio.vercel.app
+| :rocket: URL         |https://optimus-tech-eight.vercel.app/
 
 ## Detalhes do projeto
 
