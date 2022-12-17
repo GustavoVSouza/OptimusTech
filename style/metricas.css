@@ -1,0 +1,27 @@
+.metricas {
+    display: flex;
+    padding: 6em;
+}
+
+.metricas__projetos, .metricas__colaboradores, .metricas__dowloads, .metricas__review {
+    height: 168px;
+    padding: 0 1em;
+    width: 280px;
+}
+
+.metricas__projetos h2, .metricas__colaboradores h2, .metricas__dowloads h2, .metricas__review h2 {
+    color: var(--cor-principal);
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.metricas__projetos h3, .metricas__colaboradores h3, .metricas__dowloads h3, .metricas__review h3 {
+    color: var(--cor-secundaria);
+    font-size: 18px;
+    font-weight: 500;
+    margin: .5em 0;
+}
+
+.metricas__projetos p, .metricas__colaboradores p, .metricas__dowloads p, .metricas__review p {
+    color: var(--cinza);
+}
