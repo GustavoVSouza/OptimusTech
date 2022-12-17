@@ -3,7 +3,7 @@
 
 Site Criado no #7DaysOfCode
 
-| card: #7DaysOfCode | **Desafio Alura**
+| :card: #7DaysOfCode | **Desafio Alura**
 | -------------  | --- |
 | :sparkles: Nome        | **OptimusTech**
 | :label: Tecnologias | HTML5, CSS3 (tecnologias utilizadas)
