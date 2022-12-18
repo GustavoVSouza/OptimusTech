@@ -25,5 +25,5 @@
     background: var(--cor-principal);
     border-radius: 8px;
     color: white;
-    padding: 1em;
+    padding: .5em 1em;
 }

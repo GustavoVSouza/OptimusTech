@@ -1,0 +1,25 @@
+.talentos__alerta {
+    text-align: center;
+}
+
+.talentos__alerta span{
+    color: var(--cor-principal);
+    background: var(--cor-principal-degrade);
+    padding: .5em;
+    border-radius: 16px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.talentos__alerta h2{
+    font-size: 36px;
+    font-weight: 600;
+    color: var(--cor-secundaria);
+    margin: .9em;
+}
+
+.talentos__alerta p{
+    font-size: 20px;
+    color: var(--cinza);
+    margin-bottom: 3em;
+}

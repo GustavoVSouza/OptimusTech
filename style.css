@@ -2,6 +2,7 @@
 @import url("./style/topo.css");
 @import url("./style/cabecalho.css");
 @import url("./style/metricas.css");
+@import url("./style/talentos.css");
 
 :root {
     --fonte-principal: 'Inter', sans-serif;
@@ -9,10 +10,12 @@
     --preto: #000000;
     --cinza: #667085;
     --cor-principal: #8E2424;
+    --cor-principal-degrade: rgba(142, 36, 36, 0.05);
     --cor-secundaria: #101828;
 }
 
 body {
     font-family: var(--fonte-principal);
     font-size: 16px;
+    background-color: var(--branco);
 }
