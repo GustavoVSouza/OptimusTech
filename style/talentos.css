@@ -1,25 +1,29 @@
-.talentos__alerta {
+.talentos {
     text-align: center;
 }
 
-.talentos__alerta span{
+.talentos span{
     color: var(--cor-principal);
     background: var(--cor-principal-degrade);
     padding: .5em;
-    border-radius: 16px;
-    font-size: 14px;
+    border-radius: 1em;
+    font-size: .9em;
     font-weight: 500;
 }
 
-.talentos__alerta h2{
-    font-size: 36px;
+.talentos h2{
+    font-size: 2.25em;
     font-weight: 600;
     color: var(--cor-secundaria);
-    margin: .9em;
+    margin: 1.25em;
 }
 
-.talentos__alerta p{
-    font-size: 20px;
+.talentos p{
+    font-size: 1.25em;
     color: var(--cinza);
-    margin-bottom: 3em;
+    margin-bottom: 4em;
+}
+
+.talentos img{
+    width: 90vw;
 }
