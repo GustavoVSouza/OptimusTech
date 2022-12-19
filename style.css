@@ -3,12 +3,14 @@
 @import url("./style/cabecalho.css");
 @import url("./style/metricas.css");
 @import url("./style/talentos.css");
+@import url("./style/vagas.css");
 
 :root {
     --fonte-principal: 'Inter', sans-serif;
     --branco: #ffffff;
     --preto: #000000;
     --cinza: #667085;
+    --cinza-claro: #EAECF0;
     --cor-principal: #8E2424;
     --cor-principal-degrade: rgba(142, 36, 36, 0.05);
     --cor-secundaria: #101828;
