@@ -1,0 +1,28 @@
+.depoimentos {
+    background: var(--cor-fundo-degrade);
+    border-radius: 1em;
+    padding: 4em;
+    margin: 6em 7em;
+    text-align: center;
+}
+
+.depoimentos span {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--cor-principal);
+}
+
+.depoimentos h2 {
+    font-size: 36px;
+    font-weight: 500;
+    margin: 1em 0;
+}
+
+.depoimentos h3 {
+    font-weight: 500;
+    margin: 1em 0 .25em 0;
+}
+
+.depoimentos p {
+    font-size: 14px;
+}
