@@ -1,5 +1,5 @@
 # OptimusTech
-### 6 Dia concluido!
+### 7° Dia concluido!
 
 Site Criado no #7DaysOfCode
 
