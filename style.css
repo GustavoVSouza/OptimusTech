@@ -5,6 +5,7 @@
 @import url("./style/talentos.css");
 @import url("./style/vagas.css");
 @import url("./style/depoimentos.css");
+@import url("./style/rodape.css");
 
 :root {
     --fonte-principal: 'Inter', sans-serif;
@@ -14,7 +15,8 @@
     --cinza-claro: #EAECF0;
     --cor-principal: #8E2424;
     --cor-principal-degrade: rgba(142, 36, 36, 0.05);
-    --cor-fundo-degrade: rgba(196, 25, 25, 0.03);;
+    --cor-fundo-degrade: rgba(196, 25, 25, 0.03);
+    --cor-fundo: #F9FAFB;
     --cor-secundaria: #101828;
 }
 
